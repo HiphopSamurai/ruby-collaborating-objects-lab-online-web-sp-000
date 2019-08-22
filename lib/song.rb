@@ -20,7 +20,7 @@ class Song
     song
   end
 
-  def artist_name=(name)
-    ####
-  end
+  #def artist_name=(name)
+    
+  #end
 end
